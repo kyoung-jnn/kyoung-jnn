@@ -1,12 +1,15 @@
-<h1 align="center">Hi 🤗, I'm KyoungJin Roh</h1>
-<h3 align="center">즐거움을 주고 싶은 프론트엔드 개발자 😁</h3>
+<h1 align="left">KyoungJin Roh</h1>
+<h3>FrontEnd Engineer</h3>
+<ul>
+<li>Hi 🤗, I'm Junior FrontEnd Engineer</li></ul>
+<h3>Interest</h3>
+<ul>
+<li>Web</li>  
+<li>React, another Framework</li>
+<li>Full Stack Engineer!</li>  
+</ul>
 <br/>
-
-- 📝 **개인 블로그** : [https://kyoung-jnn.tistory.com/](https://kyoung-jnn.tistory.com/)
-
-- 📫 **메일** : rudwls468@gmail.com
-<br/>
-<h3 align="center">기술 스택 🛠</h3>
+<h3 align="center">🛠</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
@@ -23,7 +26,12 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AmazonAws-232F3E?style=flat-square&logo=Amazon-Aws&logoColor=white"/></a>
 </p>
-
 <br/>
+<p align="center">
+ <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=rudwls468@gmail.com" target="_blank">
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/kyoung_jnn/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://kyoung-jnn.tistory.com/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" ></a>
+ </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyoung-jnn&show_icons=true&hide_border=true&bg_color=25,ffffff,ffffff,73bbff" alt="kyoung-jnn" /></p>
