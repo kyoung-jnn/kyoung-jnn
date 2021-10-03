@@ -17,7 +17,7 @@
 <li>React, another Framework</li>
 <li>Encountering new Tech Stack</li>  
 </ul>
-<h3 align="center">🛠</h3>
+<h1 align="center">🛠</h1>
 <p align="center">
 <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JAVSCRIPT-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
