@@ -10,12 +10,17 @@
  
 <h2>Beyond FrontEnd Engineer 🚀</h2>
 <ul>
-<li>Hi there 👋, I'm Junior FrontEnd Engineer</li></ul>
+Hi there <img src="https://user-images.githubusercontent.com/55469709/138402178-963c2166-30a1-4660-abb1-f236fedd00ae.gif"  width="30" height="30"/>
+, I'm Junior Frontend Engineer
+</ul>
+
+
+
 <h3>Interest</h3>
 <ul>
 <li>Web Ecosystem</li>  
 <li>React, another Framework</li>
-<li>Encountering new Tech Stack</li>  
+<li>Encountering new Tech Stack </li>  
 </ul>
 <h1 align="center">🛠</h1>
 <p align="center">
