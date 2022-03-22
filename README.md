@@ -1,4 +1,10 @@
-<h1 align="left">🤓 KyoungJin Roh</h1>
+<h1 align="left">KyoungJin Roh</h1>
+<p align="left">
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=rudwls468@gmail.com" target="_blank">
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://velog.io/@kyoung-jnn" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white" ></a>
+ </p>
 <h2>🚀 Beyond Frontend Engineer</h2>
 <ul>
 <img src="https://user-images.githubusercontent.com/55469709/138402178-963c2166-30a1-4660-abb1-f236fedd00ae.gif"  width="30" height="30"/> Hi there 
@@ -7,7 +13,7 @@
 
 
 
-<h2>🔥 Interest</h3>
+<h2>🔍 Interest</h3>
 <ul>
 <div>Web Ecosystem</div>  
 <div>React, another Framework</div>
@@ -32,10 +38,5 @@
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/></a>
 </p>
 <br/>
-<p align="left">
- <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=rudwls468@gmail.com" target="_blank">
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-<a href="https://velog.io/@kyoung-jnn" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white" ></a>
- </p>
+
 
