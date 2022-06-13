@@ -28,7 +28,7 @@
 </p>
 <br/>
 <p align="right">
- <a href="https://velog.io/@kyoung-jnn" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white" ></a>
+ <a href="https://kyoung-jnn.com/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white" ></a>
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=rudwls468@gmail.com" target="_blank">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
