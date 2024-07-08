@@ -19,6 +19,11 @@
 <img src="https://img.shields.io/badge/Styled-components-DB7093?style=flat-square&logo=Styled-components&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/></a>
 </p>
+
+<a href="https://github.com/kyoung-jnn/gitanimals">
+  <img src="https://render.gitanimals.org/farms/kyoung-jnn"/>
+</a>
+
 <p align="left">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Amazon-AWS-232F3E?style=flat-square&logo=Amazon-Aws&logoColor=white"/></a>
