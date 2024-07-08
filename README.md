@@ -33,5 +33,6 @@
 
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/kyoung-jnn?pet-id=598024350572867010" width="1000" height="140"/>
+  <img src="https://render.gitanimals.org/lines/kyoung-jnn?pet-id=587244599248005928" width="1000" height="140"/>
+  <img src="https://render.gitanimals.org/lines/kyoung-jnn?pet-id=598025950058115788" width="1000" height="140"/>
 </a>
