@@ -18,24 +18,20 @@
 <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=SASS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Styled-components-DB7093?style=flat-square&logo=Styled-components&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/></a>
-</p>
-
-<a href="https://github.com/kyoung-jnn/gitanimals">
-  <img src="https://render.gitanimals.org/farms/kyoung-jnn"/>
-</a>
-
-<p align="left">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Amazon-AWS-232F3E?style=flat-square&logo=Amazon-Aws&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/></a>
 </p>
-<br/>
-<p align="right">
+<p align="left">
  <a href="https://kyoung-jnn.com/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white" ></a>
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=rudwls468@gmail.com" target="_blank">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
  </p>
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/kyoung-jnn?pet-id=598024350572867010" width="1000" height="140"/>
+</a>
